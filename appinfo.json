@@ -1,0 +1,19 @@
+{
+  "uuid": "d9d35303-14f3-4ec1-9e89-6195693fc592",
+  "shortName": "tut-watchface",
+  "longName": "tut-watchface",
+  "companyName": "Katerberg LLC",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt", "chalk"],
+  "enableMultiJS": true,
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
